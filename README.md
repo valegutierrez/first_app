@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Para acceder a la página generada con heroku, [haz click aquí.](https://stark-castle-17787.herokuapp.com/)
 
 Things you may want to cover:
 
